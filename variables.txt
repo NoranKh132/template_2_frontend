@@ -1,0 +1,28 @@
+/* Colors */
+   --color-light-gray: rgb(38, 38, 38);
+   --color-dark-gray : rgb(2, 0, 57);
+   --color-dark-blue : rgb(2, 4, 164);
+   --color-light-blue : rgb(0, 24, 204);
+   --color-light-green : rgb(51, 219, 219);
+   --color-light : #fff;
+   --color-placeholder : #a9a8a8;
+
+  /* Font Sizes */
+  --fs-xs : 1.4rem;
+  --fs-sm : 1.6rem;
+  --fs-md : 1.8rem;
+  --fs-lg : 2.9rem;
+  --fs-xl: 5.6rem;
+
+  /* Font Families */
+  --font-heading : gelica, "gelica Fallback", Georgia, serif;
+  --font-primary : "Inter", sans-serif;
+  /* spacing */
+
+  --buttun-padding : 10px 12px;
+  --footer-padding : 80px 0px;
+  --input-padding : 15px 20px;
+
+  /* shadows */
+  --shadow:rgba(2, 0, 57, 0.19) 8px 8px 27px 0px, rgba(2, 0, 57, 0.12) 0px 4px 8px 0px;
+
